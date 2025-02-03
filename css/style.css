@@ -1,9 +1,18 @@
-body {
+div {
     background-color: hotpink;
     width: 300px;
     border: 15px solid green;
     padding: 50px;
-    margin: 20px;
-    font-family: 'Franklin Gothic Medium', sans-serif;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
     text-align: center;
+
+    h1 {
+        color: blue;
+        text-align: center;
+    }
+    ul {
+        list-style-position: inside;
+    }
 }
