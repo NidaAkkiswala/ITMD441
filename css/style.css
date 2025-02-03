@@ -1,6 +1,7 @@
 body {
-    background-color: blue;
+    background-color: rgb(87, 87, 237);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 .heading {
